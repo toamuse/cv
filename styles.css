@@ -1,0 +1,42 @@
+
+body {
+  background-color: #f0ece3;
+}
+
+h1 {
+  color: #c7b198;
+}
+
+h3{
+  color: #c7b198;
+}
+hr {
+  border-style: dotted none none;
+  border-color: #dfd3c3;
+  border-width: 5px;
+  width:5%;
+}
+
+img {
+  height: 125px;
+}
+
+p {
+  color: #596e79;
+}
+
+li {
+  color: #596e79;
+}
+
+ul{
+  color: #596e79;
+}
+
+td {
+  color: #596e79;
+}
+
+input {
+  color: #596e79;
+}
