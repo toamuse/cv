@@ -1,0 +1,47 @@
+
+
+
+body {
+  background-color: #f0ece3;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: black;
+  font-family: sans-serif;
+}
+
+h3{
+  color: black;
+  font-family: sans-serif;
+}
+hr {
+  border-style: dotted none none;
+  border-color: #596e79;
+  border-width: 5px;
+  width:5%;
+}
+
+img {
+  height: 125px;
+}
+
+p {
+  color: #596e79;
+}
+
+li {
+  color: #596e79;
+}
+
+ul{
+  color: #596e79;
+}
+
+td {
+  color: #596e79;
+}
+
+input {
+  color: #596e79;
+}
